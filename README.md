@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-Project link: https://elastic-visvesvaraya-c0d068.netlify.app/
-
 # About
 Takes birthday and number as input and tell if you birthday is luck or not.
 
